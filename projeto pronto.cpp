@@ -5,10 +5,10 @@
 using namespace std;
 
 // constantes: pontos de vitoria e empate
-const int MAX_TIMES_PADRAO = 20;
-const int MAX_TIMES_CHAMPIONS = 36;
-const int pontosVitoria = 3; 
-const int pontosEmpate = 1;
+int MAX_TIMES_PADRAO = 20;
+int MAX_TIMES_CHAMPIONS = 36;
+int pontosVitoria = 3; 
+int pontosEmpate = 1;
 
 // vetor: lista de times do Brasileirao
 string timesBrasileirao[] = { 
