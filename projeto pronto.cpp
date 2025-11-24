@@ -1,6 +1,6 @@
-#include <iostream>   // pra usar cout e cin
-#include <string>     // pra usar std::string
-#include <cstdlib>    // pra usar rand
+#include <iostream>
+#include <string>
+#include <cstdlib>    // pra usar rand e gerar opções aleatórias
 
 using namespace std;
 
@@ -311,7 +311,7 @@ void modoCustom() {
 }
 
 
-// funcao principal (main)
+// funcao principal
 int main() {
     int opcaoMenu = -1; 
 
